@@ -11,8 +11,8 @@ Recriação do Pong em Python com Pygame. Foco na aplicação prática de Progra
 
 ## 📸 Demonstração
 
-![Screenshot do Jogo](screenshot.png)
-*(Não esqueça de subir uma imagem do jogo com este nome na pasta do projeto)*
+
+![Screenshot do Jogo](pingpong.png)
 
 ---
 
